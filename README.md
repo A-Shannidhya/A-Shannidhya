@@ -8,31 +8,30 @@
 ---
 
 ### 🧠 About Me
-- 🎓 BTech CSE Student | Passionate about backend & low-level systems
-- 🛠️ Currently building: **NeptuneBank.online — a secure online banking system**
-- 🔍 Exploring: **JVM internals, Operating Systems, and Microservice Architectures**
-- 💬 Ask me about: Java, Spring Boot, Docker, SQL, Linux, GitHub Actions
-- 📫 Reach me:
+- 🎓 BTech CSE Student | Deep interest in **systems & backend architecture**
+- 💼 Currently working on: [**NeptuneBank.online**](https://neptunebank.online) — an online banking platform built using modern backend practices
+- 💬 Ask me about: Java, Spring Boot, Kafka, Docker, MySQL/PostgreSQL, GitHub Actions
+- 🔍 Exploring: **JVM internals, microservice orchestration, container security, and RHEL administration**
+- 🌐 Connect with me:  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asp45624@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayshi-shannidhya-panda-b68713294/)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourID)
-
+  
 ---
 
 ### 🌐 Featured Project: [NeptuneBank.online](https://neptunebank.online)
 
-> **A production-grade online banking system** developed using modern backend tools and principles.
+> **A secure, scalable online banking system** built with Spring Boot and deployed on AWS
 
 #### 🔑 Key Features:
-- 🧾 **User Registration & Authentication** using Spring Security
-- 💳 **Account Creation, Fund Transfers & Transaction Logs**
-- 🛡️ **Secure Architecture** with JWT tokens & role-based access
-- 🗃️ **MySQL Integration** with JPA & Hibernate
-- 🐳 **Dockerized** for containerized deployment
-- 🌍 **Hosted on AWS** with custom domain integration
+- 🔐 JWT-secured login, role-based authorization
+- 🧾 Account creation, fund transfers, transaction history
+- 🧱 Built using a **Microservices Architecture** with dedicated services for auth, transactions, and user management
+- 📬 **Apache Kafka** used for event-driven fund transfer logs and notifications
+- 🛠️ CI/CD with GitHub Actions, containerized via Docker
+- 🌐 Deployed on AWS EC2 + Nginx with a custom domain
 
 #### 🧰 Tech Stack:
-> Spring Boot • JPA/Hibernate • MySQL • Gradle • Lombok • Docker • AWS EC2 • Nginx
+> Java • Spring Boot • Apache Kafka • MySQL • PostgreSQL • Docker • Gradle • AWS • GitHub Actions • RHEL
 
 ---
 
@@ -49,17 +48,18 @@
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java)  
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java)
 
-#### 🛠️ Tools & DevOps  
+#### 📦 DevOps / Tools  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)  
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka)  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
 
 #### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
-#### 🖥️ OS / Environments  
+#### 🖥️ Operating Systems  
 ![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
@@ -69,11 +69,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Shannidhya&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=A-Shannidhya&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Shannidhya&show_icons=true&theme=tokyonight" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Shannidhya&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
-### ⚡ Fun Developer Quote
-> “First, solve the problem. Then, write the code.” – John Johnson
+> 🧠 *"I write code that scales, survives, and stays secure. Let’s build systems that don’t just work — but thrive in production."*
