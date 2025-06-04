@@ -41,25 +41,28 @@
 #### 💾 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 
 #### 🌐 Frameworks & Libraries  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)  
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=java)  
-![Lombok](https://img.shields.io/badge/Lombok-DA4453?style=flat&logo=lombok)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java)  
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java)
 
-#### 🧱 Databases  
+#### 🛠️ Tools & DevOps  
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx)
+
+#### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
-#### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+#### 🖥️ OS / Environments  
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
 
 ---
 
