@@ -69,11 +69,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Shannidhya&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Shannidhya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Shannidhya&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Shannidhya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Shannidhya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=A-Shannidhya&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </p>
 
 ---
+
 
 > 🧠 *"I write code that scales, survives, and stays secure. Let’s build systems that don’t just work — but thrive in production."*
