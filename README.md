@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:ayshishannidhya@gmail.com"><img src="https://img.shields.io/badge/Email-ayshishannidhya%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/ayshi"><img src="https://img.shields.io/badge/LinkedIn-ayshi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/A-Shannidhya"><img src="https://img.shields.io/badge/GitHub-A--Shannidhya-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
