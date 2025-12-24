@@ -49,7 +49,7 @@ Java backend developer with a strong focus on **Spring Boot**, **WebFlux**, and 
 
 #### Messaging & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20? style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
@@ -158,7 +158,7 @@ Silicon Institute of Technology, Sambalpur
 
 <p align="left">
   <a href="mailto: ayshishannidhya@gmail. com">
-    <img src="https://img.shields.io/badge/Gmail-D14836? style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/ayshi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
