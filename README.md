@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ayshishannidhya@gmail.com"><img src="https://img.shields.io/badge/Email-ayshishannidhya%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ayshi"><img src="https://img.shields.io/badge/LinkedIn-ayshi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ayshi-shannidhya-panda"><img src="https://img.shields.io/badge/LinkedIn-Ayshi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
