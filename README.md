@@ -162,7 +162,7 @@ Silicon Institute of Technology, Sambalpur
   <a href="https://linkedin.com/in/ayshi-shannidhya-panda">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-mu-green-89.vercel.app">
+  <a href="https://www.ayshishannidhya.online">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
