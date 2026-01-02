@@ -174,5 +174,5 @@ Silicon Institute of Technology, Sambalpur
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Ayshi-Shannidhya-Panda">A-Shannidhya</a>
+  ⭐️ From <a href="https://github.com/Ayshi-Shannidhya-Panda">Ayshi Shannidhya Panda</a>
 </p>
