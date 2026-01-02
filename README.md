@@ -2,12 +2,12 @@
 <h3 align="center">Java Backend Developer | Spring Boot | Reactive & Microservices Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-Shannidhya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayshishannidhyapanda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="mailto:ayshishannidhya@gmail.com"><img src="https://img.shields.io/badge/Email-ayshishannidhya%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ayshi-shannidhya-panda"><img src="https://img.shields.io/badge/LinkedIn-Ayshi-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ayshishannidhyapanda"><img src="https://img.shields.io/badge/LinkedIn-Ayshi Shannidhya Panda-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -174,5 +174,5 @@ Silicon Institute of Technology, Sambalpur
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Ayshi-Shannidhya-Panda">Ayshi Shannidhya Panda</a>
+  ⭐️ From <a href="https://github.com/ayshishannidhyapanda">Ayshi Shannidhya Panda</a>
 </p>
